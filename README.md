@@ -1,4 +1,3 @@
-Band Site in progress
 
 
 <p align="center">
